@@ -1,0 +1,52 @@
+{
+	"details":{
+		"image":"profile.png",
+		"name":"hazara",
+		"phoneno":"9963064445",
+		"email":"hazarashaik888@gmail.com",
+		"address":"vignan's nirula college,guntur"
+	},
+	"career":{
+		"info":"The Curriculum Vitae, CV, or resume is one of the most important documents for a professional. Whereas the resume is so important because it tends to be a single document that informs everyone interested about all the facts related to the professional life of the individual. Some companies prefer hard copy or soft copy but most of the well – reputed MNC’s prefer your resume inform of both hard copy as well as soft copy"
+	},
+	"educationalqualification":[{
+		"qualification":"b.tech",
+		"institute":"vignan's nirula college",
+		"passingyear":"2016-2020",
+		"percentage":"75%"
+	},
+	{
+		"qualification":"intermediate",
+		"institute":"sri chaitanya",
+		"passingyear":"2014-2016",
+		"percentage":"82.4%"
+	},
+	{
+		"qualification":"ssc",
+		"institute":"indian springs",
+		"passingyear":"2013-2014",
+		"percentage":"88%"
+	}
+],
+"skills":[{
+	"title":"programming language",
+	"info":["c","c++","java","python"]
+},
+{
+	"title":"data base",
+	"info":["oracle","sql","my sql"]
+},
+{
+	"title":"operating system",
+	"info":["unix","linux","windows","mac"]
+}
+],
+"achievements":[{
+	"title":"achievements information",
+	"info":["1st prize in ppt"]
+	},
+	{
+		"info":["second prize in volly ball"]
+	}
+]
+}
